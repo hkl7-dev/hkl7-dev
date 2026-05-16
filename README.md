@@ -8,7 +8,7 @@
 ### 🚀 Featured Projects
 
 - 🎮 **[STM32 MicroShooter](https://github.com/hkl7-dev/STM32---MicroShooterGame.git)** — Bare-metal space shooter built in C for the STM32F031x6 microcontroller, featuring animated sprites, 6 levels, power ups, sound effects, and serial port control.
-- 📦 **Warehouse Inbound Data Processing System** — A data processing pipeline built in C for efficiently handling and sorting warehouse inbound records, developed as part of my Algorithms & Design module.
+- 📦 **[Warehouse Inbound Data Processing System](https://github.com/hkl7-dev/Warehouse-Data-Processing-System.git)** — A data processing pipeline built in C for efficiently handling and sorting warehouse inbound records, developed as part of my Algorithms & Design module.
 - 🌐 **[WebDev_Project_HCD](https://github.com/hkl7-dev/WebDev_Project_HCD)** — A collaborative website project built with **HTML**, **CSS**, and **JavaScript**, focusing on accessibility and responsive design. 
 
 ---
