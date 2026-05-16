@@ -22,7 +22,7 @@
 
 ---
 
-### 📚 First Year Modules
+### 📚 First Year Modules - Semester 2
 
 | Module | Focus |
 |---|---|
